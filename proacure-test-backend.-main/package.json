@@ -1,7 +1,7 @@
 {
   "name": "proacure-test-backend",
   "version": "1.0.0",
-  "description": "Author Mohammed Umar Khan",
+  "description": "Author jyoti solanki",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
