@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Supplier_1",
+    "country": "China",
+    "compliance_score": 84,
+    "contract_terms": {
+      "delivery_time": "within 7 days",
+      "quality_standard": "ISO9001",
+      "discount_rate": 5
+    },
+    "last_audit": "2024-03-29"
+  },
+  {
+    "id": 2,
+    "name": "Supplier_2",
+    "country": "USA",
+    "compliance_score": 60,
+    "contract_terms": {
+      "delivery_time": "within 7 days",
+      "quality_standard": "ISO9001",
+      "discount_rate": 5
+    },
+    "last_audit": "2023-11-12"
+  },
+  {
+    "id": 3,
+    "name": "Supplier_3",
+    "country": "Germany",
+    "compliance_score": 95,
+    "contract_terms": {
+      "delivery_time": "within 10 days",
+      "quality_standard": "ISO9001",
+      "discount_rate": 2
+    },
+    "last_audit": "2024-05-14"
+  },
+  {
+    "id": 4,
+    "name": "Supplier_4",
+    "country": "Mexico",
+    "compliance_score": 76,
+    "contract_terms": {
+      "delivery_time": "within 5 days",
+      "quality_standard": "ISO45001",
+      "discount_rate": 7
+    },
+    "last_audit": "2024-02-12"
+  },
+  {
+    "id": 5,
+    "name": "Supplier_5",
+    "country": "China",
+    "compliance_score": 75,
+    "contract_terms": {
+      "delivery_time": "within 3 days",
+      "quality_standard": "ISO14001",
+      "discount_rate": 4
+    },
+    "last_audit": "2024-02-01"
+  },
+  {
+    "id": 6,
+    "name": "Supplier_6",
+    "country": "Germany",
+    "compliance_score": 65,
+    "contract_terms": {
+      "delivery_time": "within 14 days",
+      "quality_standard": "ISO14001",
+      "discount_rate": 3
+    },
+    "last_audit": "2024-05-25"
+  },
+  {
+    "id": 7,
+    "name": "Supplier_7",
+    "country": "Germany",
+    "compliance_score": 80,
+    "contract_terms": {
+      "delivery_time": "within 10 days",
+      "quality_standard": "ISO9001",
+      "discount_rate": 2
+    },
+    "last_audit": "2024-09-23"
+  },
+  {
+    "id": 8,
+    "name": "Supplier_8",
+    "country": "China",
+    "compliance_score": 73,
+    "contract_terms": {
+      "delivery_time": "within 10 days",
+      "quality_standard": "ISO9001",
+      "discount_rate": 2
+    },
+    "last_audit": "2024-03-27"
+  },
+  {
+    "id": 9,
+    "name": "Supplier_9",
+    "country": "Germany",
+    "compliance_score": 93,
+    "contract_terms": {
+      "delivery_time": "within 14 days",
+      "quality_standard": "ISO14001",
+      "discount_rate": 3
+    },
+    "last_audit": "2024-01-31"
+  },
+  {
+    "id": 10,
+    "name": "Supplier_10",
+    "country": "Canada",
+    "compliance_score": 74,
+    "contract_terms": {
+      "delivery_time": "within 3 days",
+      "quality_standard": "ISO14001",
+      "discount_rate": 4
+    },
+    "last_audit": "2024-02-16"
+  },
+  {
+    "id": 11,
+    "name": "Supplier_11",
+    "country": "USA",
+    "compliance_score": 66,
+    "contract_terms": {
+      "delivery_time": "within 3 days",
+      "quality_standard": "ISO14001",
+      "discount_rate": 4
+    },
+    "last_audit": "2024-02-04"
+  },
+  {
+    "id": 12,
+    "name": "Supplier_12",
+    "country": "Germany",
+    "compliance_score": 89,
+    "contract_terms": {
+      "delivery_time": "within 10 days",
+      "quality_standard": "ISO9001",
+      "discount_rate": 2
+    },
+    "last_audit": "2024-02-17"
+  },
+  {
+    "id": 13,
+    "name": "Supplier_13",
+    "country": "China",
+    "compliance_score": 60,
+    "contract_terms": {
+      "delivery_time": "within 3 days",
+      "quality_standard": "ISO14001",
+      "discount_rate": 4
+    },
+    "last_audit": "2024-06-23"
+  },
+  {
+    "id": 14,
+    "name": "Supplier_14",
+    "country": "Mexico",
+    "compliance_score": 88,
+    "contract_terms": {
+      "delivery_time": "within 10 days",
+      "quality_standard": "ISO9001",
+      "discount_rate": 2
+    },
+    "last_audit": "2024-03-09"
+  },
+  {
+    "id": 15,
+    "name": "Supplier_15",
+    "country": "USA",
+    "compliance_score": 86,
+    "contract_terms": {
+      "delivery_time": "within 10 days",
+      "quality_standard": "ISO9001",
+      "discount_rate": 2
+    },
+    "last_audit": "2023-12-14"
+  }
+]
